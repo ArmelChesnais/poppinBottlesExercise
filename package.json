@@ -1,0 +1,24 @@
+{
+  "name": "poppin-bottles",
+  "version": "0.0.1",
+  "description": "calculating bottles that can be earned",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node lib/poppin-bottles.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "recursion",
+    "test",
+    "exercise"
+  ],
+  "author": "Armel Chesnais",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
